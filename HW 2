@@ -1,0 +1,8 @@
+#Jessica Graziano
+#9/29/22
+#Variables Exercise 2
+
+
+first_name = imput('Enter your first name: ')
+last_name = imput('Enter your last name: ')
+print('Hello', first_name, last_name)
