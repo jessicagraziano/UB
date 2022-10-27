@@ -1,0 +1,8 @@
+#Jessica Graziano
+#10/06/22
+#Homework 1
+
+salary = input('Please enter your annual salary')
+bonus = 1000
+total = salary + bonus
+print('Your pay is', total)
