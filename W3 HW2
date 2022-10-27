@@ -1,0 +1,11 @@
+# Jessica Graziano
+#10/06/22
+#Homework 2
+
+list = ["Samson", "Tom", "Harry", "Elliott", "Christine", "Katrina", "Mia", "Ashley", "Karina", "Sarah"]
+print(list)
+list.append("Sally")
+list. append("Megan")
+print(list)
+list.remove("Harry")
+print(list)
