@@ -1,0 +1,12 @@
+#Jessica Graziano
+#10/06/22
+#Homework 3
+
+a = input('Please give one of your test scores:')
+b = input('Please give another one of your test scores:')
+c = input('Please give one more of your test scores')
+average = (a + b + c)// 3
+print(average)
+highscore = 95
+if average >= highscore
+   print('congratulations')
